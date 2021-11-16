@@ -1,1 +1,1 @@
-this programe is aimed to record my Grade3 classes.
+this repository is aimed to record my Grade3 classes.
